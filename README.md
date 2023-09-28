@@ -2,7 +2,7 @@
 
 ### Hello! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-- 🌱 I’m currently studying full-stack web development at Business College Helsinki
+- 🌱 I’m currently studying full-stack web development at [Business College Helsinki](https://en.bc.fi/)
 - 🤔 More info: [LinkTree](https://linktr.ee/tdora28)
 - 💬 I love learning languages
   - Hungarian 🇭🇺
