@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying full-stack web development at [Business College Helsinki](https://en.bc.fi/)
 - 🤔 More info: [LinkTree](https://linktr.ee/tdora28)
-- 💬 I love learning languages
+- 💬 I love learning languages, and I have an MA in cognitive linguistics
   - Hungarian 🇭🇺
   - English 🇬🇧
   - Finnish 🇫🇮
